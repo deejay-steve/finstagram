@@ -1,0 +1,34 @@
+header { 
+    background-color:#FDFEFE;
+    color:#17202A;
+    display:block;
+}
+
+
+body {
+    background-color:#FDFEFE;
+}
+
+main {
+    background-color:whitesmoke;
+    padding: 16px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post .user-info img{
+    border-radius: 50%;
+}
+
+h1 {
+    color:#17202A
+    
+}
+
+
+.user-info img {
+    height:40px;
+    
+}
